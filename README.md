@@ -1,0 +1,1 @@
+# Elektromechanischer-Greifer-mit-Force-Feedback-Funktion
